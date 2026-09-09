@@ -50,9 +50,9 @@
 <br><br>
 -->
 
-<a href="https://discord.com/users/NXT"><img alt="Discord" src="https://img.shields.io/badge/Discord-NXT-0A0F1E?style=for-the-badge&logo=discord&logoColor=1E6FF0"></a>
+<a href="https://discord.com/users/easy.51"><img alt="Discord" src="https://img.shields.io/badge/Discord-NXT-0A0F1E?style=for-the-badge&logo=discord&logoColor=1E6FF0"></a>
 &nbsp;&nbsp;
-<a href="mailto:kikilebg51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Me_contacter-0A0F1E?style=for-the-badge&logo=gmail&logoColor=F59E0B"></a>
+<a href="mailto:"><img alt="Email" src="https://img.shields.io/badge/Email-Me_contacter-0A0F1E?style=for-the-badge&logo=gmail&logoColor=F59E0B"></a>
 
 <br><br>
 
